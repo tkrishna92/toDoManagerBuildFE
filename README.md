@@ -47,6 +47,7 @@ Re-Open : This allows users to revert a completed list to open state from the do
 The done lists section only has delete and re-open list options.
 
 Item : 
+
 The following are all the options available on the items of a list.
 
 createNewItem:
@@ -86,5 +87,5 @@ acceptFriend : This allows users to accept friends from pending/new list of requ
 Once the friend request is accepted, the friend’s list will be all visible and all the CRUD operations can be performed on the friends account.
 
 
-
+toDo app RESTAPI : http://api.webdevk.com/api/v1/
 
